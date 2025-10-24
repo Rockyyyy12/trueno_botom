@@ -1,0 +1,42 @@
+{
+  "baby": {
+    "triggers": ["baby", "babe", "bb", "babyy", "babyyy"],
+    "response": "Nobody is a baby here, you guys are fkin 24! Act like grown ups and for gods sake stop calling each other **BABY!***"
+  },
+  "who": {
+    "triggers": ["yaar nee", "who are you", "who're you", "yaar ra nee", "yaar da nee"],
+    "response": "**YAARA IRUNDHA UNAKU ENNA!**"
+  },
+  "adikanum": {
+    "triggers": ["ivana adika", "kolla poren ivana", "ivana konralama"],
+    "response": "**MUDINJA PANNIKO!**"
+  },
+  "en baby": {
+    "triggers": ["en baby", "my baby"],
+    "response": "No he's mine! JK who would even want you."
+  },
+  "bot": {
+    "triggers": ["bot", "robot", "automation"],
+    "response": "I'm a helpful bot!"
+  },
+  "help": {
+    "triggers": ["help", "assist", "support"],
+    "response": "How can I help you?"
+  },
+  "paaru": {
+    "triggers": ["ivana paaru", "ivana paaren", "ivan enna panraan"],
+    "response": "Unnaala paaka mattum dhan mudiyum."
+  },
+  "loveu reena": {
+    "triggers": ["love you reena"],
+    "response": "Naanum **LOVE YOU** reena!!"
+  },
+  "admin": {
+    "triggers": ["admin", "administrator", "mod"],
+    "response": "An admin has been summoned."
+  },
+  "user": {
+    "triggers": ["user", "member", "participant"],
+    "response": "Hello, user!"
+  }
+}
