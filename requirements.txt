@@ -1,0 +1,10 @@
+discord.py
+discord.ext.commands
+discord
+python-dotenv
+Pillow
+chat_exporter
+validators
+pytz
+requests
+gspread
